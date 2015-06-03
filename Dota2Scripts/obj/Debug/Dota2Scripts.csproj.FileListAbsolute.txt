@@ -1,0 +1,4 @@
+E:\Hacks\Dropbox\DXtesting\Dota2Scripts\Dota2Macros\Dota2Scripts\bin\Debug\ConsoleApplication1.exe.config
+E:\Hacks\Dropbox\DXtesting\Dota2Scripts\Dota2Macros\Dota2Scripts\obj\Debug\ConsoleApplication1.exe
+E:\Hacks\Dropbox\DXtesting\Dota2Scripts\Dota2Macros\Dota2Scripts\obj\Debug\ConsoleApplication1.pdb
+E:\Hacks\Dropbox\DXtesting\Dota2Scripts\Dota2Macros\Dota2Scripts\bin\Debug\Dota2Scripts.exe.config
